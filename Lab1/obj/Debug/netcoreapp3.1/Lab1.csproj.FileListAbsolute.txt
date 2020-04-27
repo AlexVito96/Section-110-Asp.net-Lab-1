@@ -1,0 +1,12 @@
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/alexvito/Desktop/110/Aspnet core/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
